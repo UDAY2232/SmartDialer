@@ -1,5 +1,7 @@
 # SmartDialer — Safety-First Predictive Auto-Dialing Platform
 
+Demo Link : https://smartdailer.vercel.app/
+
 > **Predictive intelligence recommends how aggressively to dial. The Safety Controller decides what is actually safe.**
 
 SmartDialer is a safety-first predictive auto-dialing platform for collections/contact-center workflows. It combines historical call data, predictive pacing, deterministic safety controls, atomic resource reservation, provider-health monitoring, event-driven state management, idempotency, concurrency protection, and worker-crash recovery.
