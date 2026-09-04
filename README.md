@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartDialer Platform
 
 A complete full-stack web application for a collections company that maximizes agent utilization while maintaining the deterministic safety characteristics of progressive dialing.
@@ -36,3 +37,6 @@ Campaign -> Pacing Engine -> Safety Controller -> Call Allocator -> Telecom Prov
 5. Visit `http://localhost:5173`
 
 *(Note: Data is seeded automatically on startup if the database is empty).*
+=======
+# SmartDialer
+>>>>>>> 6c203f8cbb22023c8679d3db0cdbd24807a42ca3
