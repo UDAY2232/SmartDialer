@@ -1,6 +1,6 @@
 # SmartDialer — Safety-First Predictive Auto-Dialing Platform
 
-Demo Link : https://smartdailer.vercel.app/
+
 
 > **Predictive intelligence recommends how aggressively to dial. The Safety Controller decides what is actually safe.**
 
